@@ -1,24 +1,17 @@
-# qiankun-base
-
-## Project setup
+qiankun-base
 ```
-yarn install
+cd qiankun-base  && yarn serve
 ```
 
-### Compiles and hot-reloads for development
+qiankun-react
+
 ```
-yarn serve
+cd qiankun-react  && yarn start 
+
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+qiankun-vue
 
-### Lints and fixes files
 ```
-yarn lint
+cd qiankun-vue  && yarn serve
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
